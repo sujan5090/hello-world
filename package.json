@@ -1,0 +1,29 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "mean_stack application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujan5090/hello-world.git"
+  },
+  "keywords": [
+    "mean",
+    "with",
+    "angular",
+    "2"
+  ],
+  "author": "sujan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujan5090/hello-world/issues"
+  },
+  "homepage": "https://github.com/sujan5090/hello-world#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.3"
+  }
+}
